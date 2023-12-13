@@ -1,0 +1,92 @@
+body {
+	background-color: grey;
+}
+.div {
+	border: 0px;
+	border-style:solid;
+	padding: 30px;
+	width: 50%;
+	margin: auto;
+	background-color: #f2f0ed;
+}
+
+.div1G {
+	border: 0px;
+	border-style:solid;
+	padding: 0px;
+	margin-right: 75%;
+}
+
+.div1D {
+	border: 0px;
+	border-style:solid;
+	margin-left: 75%;
+	margin-top: -13%;
+}
+
+.div2G {
+	border: 0px;
+	border-style:solid;
+	padding: 0px
+}
+
+.div2D {
+	border: 0px;
+	border-style:solid;
+	text-align: center;
+}
+
+
+p1 {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+p2 {
+	font-weight: bold;
+	font-size: 17px;
+	color: red;
+	text-decoration: underline;
+}
+
+p3 {
+	font-weight: bold;
+}
+
+p4 {
+	font-style: italic;
+	color: grey;
+	text-align: center;
+}
+
+p5 {
+	font-style: italic;
+	color: grey;
+	text-align: center;
+	margin-left: 20%;
+}
+
+p6 {
+	font-style: italic;
+	color: grey;
+	text-align: center;
+	margin-left: 31%;
+}
+
+h {
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 39%;
+	color: darkblue;
+	text-decoration: underline;
+	text-shadow: 2px 2px 8px black;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 25%;
+	color: darkblue;
+	text-decoration: underline;
+	text-shadow: 2px 2px 8px black;
+}
