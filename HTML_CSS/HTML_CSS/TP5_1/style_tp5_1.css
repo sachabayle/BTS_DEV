@@ -1,0 +1,49 @@
+body
+{
+	background: hotpink;
+}
+
+h1
+{
+	color: red;
+	font-size: 40px;
+	text-align: center;
+}
+h2,h3
+{
+	color: darkblue;
+}
+div
+{
+	border:  4px solid yellowgreen;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	padding: 3%;
+	color: whitesmoke;
+	border-radius: 5%;
+}
+
+.G1{
+	background-color: blueviolet;
+}
+.G2{
+	background-color: skyblue;
+}
+.B1{
+	background-color: #0074d9;
+	color: greenyellow;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transition: color 0.3s ease;
+	width: 250px;
+}
+
+.B1:hover {
+	color: red;
+}
