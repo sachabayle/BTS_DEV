@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(140, 153, 140);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 10px;
+    border-width: 3px 3px 3px;
+    border-style: solid;
+    background-color: rgb(228, 118, 118);
+}
+
+input {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    border-color: black;
+    height: 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+input::placeholder {
+    text-align: center;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 8px;
+    border-color: black;
+    height: 20px;
+    margin: 5px;
+}
+
+td {
+    font-weight: bold;
+    font-size: 25px;
+}
